@@ -21,6 +21,7 @@ En lugar de enlazar las ramas con un commit de merge, el hacer rebase a una rama
 Esto sirve para el mismo propósito que git merge, la integración de commits de diferentes ramas. Pero hay dos razones por las que quisiéramos optar por un rebase sobre un merge:
 
 *Resulta en una historia lineal del proyecto.
+
 *Nos da la oportunidad de limpiar commits locales.
 
 
